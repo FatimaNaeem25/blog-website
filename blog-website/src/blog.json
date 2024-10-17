@@ -1,0 +1,32 @@
+{
+    "data": [
+      {
+        "id": "1",
+        "tag": "React",
+        "title": "What does a React developer do?",
+        "description": "Whether you know it or not, you have most definitely interacted with a website build withReact, and so, have gloried in the hard work of a React developer. Apps and websites such as Instagram, Netflix, Airbnb, and Reddit have all been created with React. ",
+        "coverimg": "https://s3.ap-south-1.amazonaws.com/stage.radixweb.com/Hire_React_JS_Developers_e57bec9c4a.jpg"
+      },
+      {
+        "id": "2",
+        "tag": "React Native",
+        "title": "Front-End Engineer UI/UX",
+        "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+        "coverimg": "https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg"
+      },
+      {
+        "id": "3",
+        "tag": "Angular",
+        "title": "Angular JS",
+        "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+        "coverimg": "https://s3-ap-south-1.amazonaws.com/trt-blog-ghost/2022/12/Reactjs-developers-do.jpg"
+      },
+      {
+        "id": "4",
+        "tag": "UI/UX",
+        "title": "Python Developer",
+        "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+        "coverimg": "https://www.mindinventory.com/blog/wp-content/uploads/2022/10/python-developer.png"
+      }
+    ]
+  }
